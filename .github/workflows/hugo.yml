@@ -39,6 +39,11 @@ jobs:
           submodules: recursive
           fetch-depth: 0
       
+      - name: Verify SCSS file
+        run: |
+          ls -la themes/portio/assets/scss/
+          echo "Checking for style.scss..."
+      
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v4

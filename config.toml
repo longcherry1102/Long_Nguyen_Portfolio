@@ -48,11 +48,11 @@ weight = 4
 blogPageURL = "writing"
 contactLink = "contact"
 copyright = "All Rights Reserved. Copyright © Long Nguyen 2024"
-footerLogo = "images/contact/footer-logo.png"
+footerLogo = "/images/contact/footer-logo.png"
 # We're using formspree.io for form handling, paste your formspree url below
 fabformURL  = "https://fabform.io/f/2ORFL1T"
 googleAnalytics = "G-GRLVE97S23"
-logo = "images/site-navigation/logo.png"
+logo = "/images/site-navigation/logo.png"
 custom_css = ["css/custom.css"]
 
 [params.address]
@@ -65,7 +65,7 @@ openingHours = "Available anytime."
 APIkey = "AIzaSyD2WardCPFCJsUgTeWNlMDEWJe5lL-YCfM"
 latitude = "39.165325"
 longitude = "-86.526386"
-pinImage = "images/pin.png"
+pinImage = "/images/pin.png"
 
 # Social icons
 [[params.social]]

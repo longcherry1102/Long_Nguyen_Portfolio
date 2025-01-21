@@ -4,13 +4,13 @@ topTitle: Get to know your next hire.
 title: >
   ## About Me
 
-  (Note: I have a knack for solving problems and making it look effortless—mostly because I overthink every detail until it’s perfect.)
+  (Note: I have a knack for solving problems and making it look effortless—mostly because I overthink every detail until it's perfect.)
 content: >
   ## I develop & design content projects.
 
-  👋🏽 Hi there! I’m Long, the guy who can turn a spreadsheet into a work of art
+  👋🏽 Hi there! I'm Long, the guy who can turn a spreadsheet into a work of art
 
-  - 🌐 I’m a versatile strategist with expertise in market research, business consulting, and data-driven decision-making.
+  - 🌐 I'm a versatile strategist with expertise in market research, business consulting, and data-driven decision-making.
 
   - ✊🏾 Passionate about transforming complex data into actionable insights that drive growth and efficiency.
 
@@ -25,4 +25,4 @@ button1Name: Hire Me
 button2Name: Download CV
 button1Target: contact
 button2Target: Resume.pdf
-image: images/about/about-img.jpg
+image: "/images/about/about-img.jpg"

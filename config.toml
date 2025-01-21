@@ -32,7 +32,7 @@ weight = 7
 # Sitemap Menu
 [[menu.sitemap]]
 name = "Homepage"
-url = "https://brennanbrown.ca"
+url = "https://longcherry1102.github.io/Long_Nguyen_Portfolio/"
 weight = 1
 [[menu.sitemap]]
 name = "Resume/CV"

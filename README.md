@@ -1,5 +1,5 @@
 <!-- PROJECT -->
-  <h3 align="center">Brennan's Marketing Portfolio</h3>
+  <h3 align="center">LongNguyen_Portfolio</h3>
 
   <p align="center">
     An in-depth showcase of my marketing work, experience, and case studies.

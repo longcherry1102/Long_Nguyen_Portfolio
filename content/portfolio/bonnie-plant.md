@@ -2,7 +2,7 @@
 title: Bonnie Plants Case Study
 date: 2023-04-20
 thumbnail: images/portfolio/portfolio-3.jpg
-service: Market Analysis, Product Strategy, Consumer Engagement
+service: Market Analysis, Product Strategy
 client: Bonnie Plants
 shortDescription: Bonnie Plants, a leading live goods provider, aimed to capture the growing houseplant market to connect with younger, urban consumers and increase brand awareness. Our team developed a strategic marketing plan to position Bonnie as a key player in the wellness-driven houseplant category.
 challenge: Bonnie Plants wanted to expand its portfolio into the houseplant market to appeal to younger audiences, many of whom are driven by wellness trends and consider themselves “plant parents.” The challenge was to identify key consumers, create unique product offerings, and establish a strong presence in this competitive market.

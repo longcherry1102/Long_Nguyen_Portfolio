@@ -8,27 +8,25 @@ title: >
   various fields by provided.
 service:
   - content: >
-      #### Web Development 
+      #### Business Strategy Consulting
 
-      I specialize in custom JAMStack web development, from small business websites to enterprise-level applications. 
-      I utilize Headless CMS tools and static frameworks to create websites that are both user-friendly and extremely fast.
+      I help organizations create impactful strategies that optimize operations, reduce costs, and unlock growth opportunities. By identifying key challenges and crafting actionable plans, I empower businesses to achieve their goals with confidence.
+
     image: images/service/web.svg
   - content: >
-      #### Content Strategy
+      #### Insight-Driven Decision Making
 
-      I help businesses create and implement content strategies that are aligned with their business goals. 
-      I have a deep understanding of how to create and curate content that new and existing customers will find valuable.
+      Using a blend of data analysis and market research, I deliver insights that turn numbers into narratives and plans into performance. I specialize in helping teams make smarter, evidence-based decisions that drive measurable results.
 
     image: images/service/creative.svg
   - content: >
-      #### Blog Writing
+      #### Process Optimization
 
-      Are you looking for a high-quality, well-written blog post? Look no further! 
-      I can help you create engaging content that will resonate with your audience, writing catchy headlines and interesting stories.
+      Efficiency is at the core of what I do. I streamline workflows, enhance operations, and implement solutions that save time and resources while improving overall performance.
     image: images/service/ui-ux.svg
   - content: >
-      #### UI/UX Design 
+      #### Collaborative Leadership 
 
-      I design and develop user-friendly interfaces that are both aesthetically pleasing and highly functional. 
-      I take a user-centered approach to my work, making sure that your customers will have a positive experience using your product.
+      Whether leading projects or supporting team initiatives, I bring an adaptable, people-first approach to collaboration. I excel in creating productive environments where ideas thrive, and goals are achieved seamlessly.
+
     image: images/service/branding.svg

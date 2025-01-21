@@ -2,27 +2,26 @@
 enable: true
 topTitle: My Skills
 content: >
-  ## Why hire me for your next project?
+  ## Why hire me?
 
-  With a diverse skill set and a passion for continuous learning, I am dedicated to helping freelancers and startups achieve their goals. My extensive experience in web development, community building, content creation, and project management enables me to deliver high-quality results across various domains. Here’s a closer look at the skills I bring to the table:
+  "With a diverse skill set and a drive for turning challenges into opportunities, I’m dedicated to helping businesses grow and succeed. My experience in strategic planning, market research, and data-driven problem solving equips me to deliver impactful results. Here’s a closer look at what I bring to the table:
 
-image: https://i.ibb.co/9nGwbcX/skill-image-alt.png
+
+image: images/skill/skill_image.jpg
 
 skill:
-  - title: Creative & Content Writing
+  - title: Market Research
     percent: 95
-  - title: Community Building & Engagement
+  - title: Strategic Planning
     percent: 90
-  - title: Editing & Proofreading
+  - title: Problem-Solving
     percent: 90
-  - title: JavaScript & Front-End Dev.
+  - title: Adaptability & Versatility
+    percent: 90
+  - title: Leadership & Teamwork
+    percent: 85
+  - title: Project Management
     percent: 80
-  - title: Agile & Scrum Methodologies
+  - title: Data Analysis.
     percent: 80
-  - title: Python & Back-End Dev.
-    percent: 75
-  - title: Research & Analysis
-    percent: 75
-  - title: SQL & NoSQL Databases
-    percent: 70
 ---

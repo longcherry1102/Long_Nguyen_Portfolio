@@ -36,7 +36,7 @@ url = "https://longhnguyen.net/"
 weight = 1
 [[menu.sitemap]]
 name = "Resume/CV"
-url = "Resume.pdf"
+url = "/Resume.pdf"
 weight = 2
 [[menu.sitemap]]
 name = "Contact"

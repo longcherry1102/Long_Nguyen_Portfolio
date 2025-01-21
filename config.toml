@@ -1,4 +1,4 @@
-baseURL = "https://longcherry1102.github.io/Long_Nguyen_Portfolio/"
+baseURL = "https://longhnguyen.net/"
 languageCode = "en-us"
 pagination.pagerSize = 6
 theme = "portio"
@@ -32,7 +32,7 @@ weight = 7
 # Sitemap Menu
 [[menu.sitemap]]
 name = "Homepage"
-url = "https://longcherry1102.github.io/Long_Nguyen_Portfolio/"
+url = "https://longhnguyen.net/"
 weight = 1
 [[menu.sitemap]]
 name = "Resume/CV"

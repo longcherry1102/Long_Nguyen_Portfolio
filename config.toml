@@ -32,7 +32,7 @@ weight = 7
 # Sitemap Menu
 [[menu.sitemap]]
 name = "Homepage"
-url = "https://github.com/longcherry1102/Long_Nguyen_Portfolio.git"
+url = "https://longcherry1102.github.io/Long_Nguyen_Portfolio/"
 weight = 1
 [[menu.sitemap]]
 name = "Resume/CV"
@@ -70,25 +70,13 @@ pinImage = "images/pin.png"
 # Social icons
 [[params.social]]
 icon = "fa-github-alt"
-url = "https://www.github.com/brennanbrown"
+url = "https://github.com/longcherry1102"
 weight = 1
 [[params.social]]
 icon = "fa-linkedin"
-url = "https://www.linkedin.com/in/brennankbrown"
+url = "https://www.linkedin.com/in/long-nguyen-/"
 weight = 2
 [[params.social]]
-icon = "fa-tumblr"
-url = "https://bkpoetry.com/"
-weight = 3
-[[params.social]]
-icon = "fa-medium"
-url = "https://brennanbrown.medium.com"
-weight = 4
-[[params.social]]
-icon = "fa-graduation-cap"
-url = "https://www.researchgate.net/profile/Brennan-Brown-2"
-weight = 5
-[[params.social]]
 icon = "fa-envelope"
-url = "mailto:mail@brennanbrown.ca"
+url = "mailto:longnguyen.hhoang@gmail.com"
 weight = 6

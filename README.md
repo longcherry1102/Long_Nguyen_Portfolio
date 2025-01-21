@@ -88,7 +88,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 <!-- CONTACT -->
 ## Contact and Acknowledgements
 
-Brennan Brown - [@brennankennethbrown](https://instagram.com/brennankennethbrown) - mail@brennanbrown.ca
+Long Nguyen - [@brennankennethbrown](https://instagram.com/brennankennethbrown) - mail@brennanbrown.ca
 
 Project Link: [https://github.com/brennanbrown/marketing](https://github.com/brennanbrown/marketing)
 

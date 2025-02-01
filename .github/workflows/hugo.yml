@@ -38,6 +38,11 @@ jobs:
         id: pages
         uses: actions/configure-pages@v4
       
+      - name: Create themes directory
+        run: |
+          mkdir -p themes
+          git clone https://github.com/StaticMania/portio-hugo.git themes/portio
+      
       - name: Build with Hugo
         env:
           HUGO_ENVIRONMENT: production
